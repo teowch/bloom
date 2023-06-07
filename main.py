@@ -1,3 +1,8 @@
+# ===============================================================================
+# Author: Teodoro Valença de Souza Wacholski
+# Universidade Tecnológica Federal do Paraná
+# ===============================================================================
+
 import sys
 import numpy as np
 import cv2
